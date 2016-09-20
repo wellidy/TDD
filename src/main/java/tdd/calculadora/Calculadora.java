@@ -15,4 +15,8 @@ public class Calculadora {
 		return valorA/valorB;
 	}
 
+	public int subtract(int valueA, int valueB) {
+		return valueA - valueB;
+	}
+
 }

@@ -66,4 +66,13 @@ public class CalculadoraTest {
 
 		
 	}
+	@Test
+	public void shouldSubtractTwoNumbers() {
+		int valueA = 10;
+		int valueB = 7;
+		
+		Calculadora calculadora = new Calculadora();
+		int result = calculadora.subtract(valueA, valueB);
+		assertEquals(3, result);
+	}
 }

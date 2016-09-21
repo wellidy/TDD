@@ -1,2 +1,5 @@
+# Release 1.0
 # TDD
-Exemplos de código para aprendizado de TDD
+Sample code for learning purpouses of GIT and TDD.
+
+# Learning GIT
